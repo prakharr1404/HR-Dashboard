@@ -91,4 +91,5 @@ This dashboard helps HR teams and management:
 
 ## SNAPSHOTS:
 
-uld you like me to export this as a `README.md` file or add placeholders for your Power BI snapshots? Let me know!
+![HR_IMGA](https://github.com/user-attachments/assets/63b1bac4-bb79-4533-9543-473676fab803)
+

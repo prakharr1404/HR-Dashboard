@@ -73,7 +73,7 @@ Through clear visuals and dynamic filters, users can explore workforce trends, i
 ## Technologies Used:
 
 * **Tool**: Power BI
-* **Data Source**: HR dataset (internal/company or sample)
+* **Data Source**: HR dataset (kaggle)
 * **Techniques**: Data Cleaning, KPI Design, DAX Measures, Visual Analytics, Filtering
 
 ---
